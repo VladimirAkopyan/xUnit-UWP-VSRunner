@@ -1,0 +1,1 @@
+C:\Dev\xUnit-UWP-VSRunner\MyFirstUWPTests\MyFirstUWPTests.csproj;x86
